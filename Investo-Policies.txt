@@ -1,0 +1,191 @@
+POLITIQUE DE CONFIDENTIALITÉ — INVESTO
+Dernière mise à jour : 10 juillet 2026]
+
+
+1. QUI SOMMES-NOUS
+
+La présente Politique de Confidentialité décrit comment INVESTO, dont le siège est situé à BUJUMBURA BURUNDI
+(« Investo », « nous »), collecte, utilise, conserve et protège les
+données personnelles des utilisateurs (« vous ») de l'application
+mobile Investo (« l'Application »).
+
+Pour toute question relative à cette politique ou à vos données
+personnelles, contactez-nous à : niyca14@gmail.com.
+
+
+2. DONNÉES QUE NOUS COLLECTONS
+
+Nous collectons uniquement les données nécessaires au fonctionnement
+de l'Application, listées ci-dessous par catégorie.
+
+2.1. Données d'identité et de compte
+- Nom complet
+- Adresse e-mail
+- Numéro de téléphone (facultatif)
+- Mot de passe (stocké sous forme chiffrée/hachée — jamais en clair)
+- Rôle du compte (utilisateur, comptable ou administrateur)
+
+2.2. Données financières et bancaires
+- Nom de la banque, numéro de compte et nom du titulaire du ou des
+  comptes bancaires que vous liez à votre profil (utilisés
+  uniquement pour vous identifier comme destinataire de vos propres
+  retraits)
+- Montants et dates de vos dépôts
+- Numéro de transaction associé à chaque dépôt
+- Photo/image du bordereau de versement, si vous choisissez d'en
+  joindre un lors d'un dépôt (facultatif)
+- Montants, statuts et dates de vos retraits
+- Historique de vos bénéfices et taux d'intérêt appliqués
+- Période de placement choisie (hebdomadaire, mensuelle, semestrielle,
+  annuelle)
+
+2.3. Données de vérification
+- Codes de vérification à usage unique (OTP) envoyés par e-mail lors
+  de l'inscription ou d'une réinitialisation de mot de passe ; ces
+  codes expirent automatiquement après une courte durée et ne sont
+  pas conservés au-delà de leur usage.
+
+2.4. Données techniques et de session
+- Jetons de connexion (JWT) stockés localement sur votre appareil
+  pour maintenir votre session active ; ils ne contiennent aucune
+  donnée bancaire.
+- Journaux techniques standards de nos serveurs (ex. adresse IP,
+  horodatage des requêtes), collectés automatiquement à des fins de
+  sécurité et de bon fonctionnement du Service.
+
+2.5. Ce que nous NE collectons PAS
+Dans son état actuel, l'Application NE collecte PAS : votre
+localisation géographique, vos contacts, un accès permanent à
+l'appareil photo (l'ajout d'un bordereau se fait via le sélecteur de
+fichiers/photos standard de votre appareil, à votre initiative
+uniquement), et n'intègre aucun outil publicitaire ou de suivi
+analytique tiers (pas de SDK publicitaire, pas d'identifiant
+publicitaire).
+
+
+
+
+3. POURQUOI NOUS COLLECTONS CES DONNÉES
+
+Nous utilisons vos données uniquement pour :
+- créer et sécuriser votre compte, et vérifier votre identité ;
+- traiter vos dépôts et retraits, et calculer vos bénéfices ;
+- vous permettre de retirer vos bénéfices vers votre propre compte
+  bancaire ;
+- communiquer avec vous au sujet de votre compte (confirmation de
+  dépôt/retrait, code de vérification, réinitialisation de mot de
+  passe) ;
+- assurer la sécurité de l'Application et prévenir la fraude ;
+- répondre à nos obligations légales et réglementaires, le cas
+  échéant.
+
+Nous ne vendons jamais vos données personnelles à des tiers.
+
+
+4. AVEC QUI VOS DONNÉES SONT PARTAGÉES
+
+- Notre équipe interne (administrateurs et comptables autorisés) a
+  accès aux données nécessaires à la validation des dépôts et
+  retraits, dans le cadre strict de leurs fonctions.
+- Notre prestataire d'envoi d'e-mails niyca14@gmail.com traite votre adresse e-mail dans le seul but de vous
+  envoyer les e-mails liés à votre compte (codes de vérification,
+  notifications).
+- Notre hébergeur (ex. [NOM DE L'HÉBERGEUR, À COMPLÉTER]) héberge nos
+  serveurs et bases de données.
+- Nous ne partageons vos données avec aucun autre tiers, sauf
+  obligation légale (réquisition judiciaire, autorité de régulation
+  financière, etc.) ou avec votre consentement explicite.
+
+
+5. DURÉE DE CONSERVATION
+
+Nous conservons vos données personnelles pendant toute la durée de
+votre compte actif, puis pendant une durée supplémentaire de 5 ans après la clôture de votre compte,
+notamment pour respecter nos obligations comptables, fiscales et
+légales. Les codes de vérification (OTP) sont supprimés ou rendus
+inutilisables automatiquement après leur expiration.
+
+
+6. SÉCURITÉ DE VOS DONNÉES
+
+Nous mettons en œuvre des mesures techniques et organisationnelles
+raisonnables pour protéger vos données, notamment :
+- chiffrement/hachage des mots de passe (jamais stockés en clair) ;
+- transmission des données via des connexions chiffrées (HTTPS) ;
+- accès restreint aux données financières, limité au personnel
+  autorisé (administrateurs, comptables) dans le cadre de leurs
+  fonctions ;
+- séparation des rôles d'accès selon le niveau d'autorisation.
+
+Aucun système n'étant totalement infaillible, nous ne pouvons
+garantir une sécurité absolue, mais nous nous engageons à vous
+informer sans délai injustifié en cas d'incident de sécurité
+affectant vos données personnelles, conformément à la réglementation
+applicable.
+
+
+7. VOS DROITS
+
+Selon la réglementation applicable dans votre pays, vous disposez
+notamment des droits suivants concernant vos données personnelles :
+- droit d'accès : obtenir une copie des données que nous détenons
+  sur vous ;
+- droit de rectification : corriger des données inexactes ou
+  incomplètes ;
+- droit à l'effacement : demander la suppression de vos données,
+  sous réserve de nos obligations légales de conservation (notamment
+  comptables) ;
+- droit à la portabilité : recevoir vos données dans un format
+  structuré et lisible par machine ;
+- droit d'opposition : vous opposer à certains traitements, dans les
+  limites permises par la loi.
+
+Pour exercer ces droits, contactez-nous à niyca14@gmail.com. Nous répondrons dans les délais prévus par la loi
+applicable.
+
+
+8. ÂGE MINIMUM
+
+L'Application est réservée aux personnes âgées d'au moins 18 ans (ou
+l'âge de la majorité légale dans votre juridiction). Nous ne
+collectons pas sciemment de données concernant des mineurs. Si vous
+pensez qu'un compte a été créé par un mineur, contactez-nous
+immédiatement à niyca14@gmail.com
+
+
+9. STOCKAGE LOCAL SUR VOTRE APPAREIL
+
+L'Application conserve localement sur votre appareil via le
+stockage local du navigateur/de l'application votre jeton de
+connexion et certaines informations de profil, afin d'éviter de vous
+reconnecter à chaque ouverture. Ces données locales sont supprimées
+lorsque vous vous déconnectez ou désinstallez l'Application.
+
+
+10. TRANSFERT INTERNATIONAL DE DONNÉES
+
+ Vos données sont hébergées sur des serveurs situés en/à Germany. Si ce pays est
+situé en dehors de votre pays de résidence, ce transfert est encadré
+par K SQUAD
+
+
+11. MODIFICATION DE CETTE POLITIQUE
+
+Nous pouvons modifier cette Politique de Confidentialité à tout
+moment. Toute modification substantielle vous sera notifiée (par
+notification dans l'Application ou par e-mail) avant son entrée en
+vigueur. La date de « dernière mise à jour » en haut de ce document
+sera actualisée à chaque modification.
+
+
+12. CONTACT
+
+Pour toute question concernant cette Politique de Confidentialité ou
+le traitement de vos données personnelles :
+E-mail : niyca14@gmail.com
+
+
+
+============================================================
+FIN DU DOCUMENT
+============================================================

@@ -1,0 +1,326 @@
+AKIWACU EXPLORE — POLITIQUE DE CONFIDENTIALITÉ / PRIVACY POLICY
+
+Dernière mise à jour / Last updated: 30 septembre 2026 / September 30, 2026
+
+Éditeur / Publisher: K SQUAD — https://ksquad.dev
+Contact: hello@ksquad.dev — +257 68 46 18 41
+Application: Akiwacu Explore (Android, identifiant dev.ksquad.tourism)
+Licence / License: © 2026 K SQUAD. Tous droits réservés / All rights reserved.
+
+================================================================================
+VERSION FRANÇAISE
+================================================================================
+
+1. PRÉSENTATION
+
+Akiwacu Explore est une application qui fait découvrir les sites touristiques du
+Burundi ainsi que les hébergements, bars et restaurants situés à proximité. Elle
+est éditée par K SQUAD (« nous »). La présente politique explique quelles données
+nous collectons, pourquoi, avec qui elles sont partagées et quels sont vos droits.
+
+L'application peut être utilisée sans compte pour consulter les sites, la carte
+et les établissements. Un compte n'est nécessaire que pour les fonctions
+personnelles (favoris, voyages, avis, proposition de sites).
+
+2. DONNÉES QUE NOUS COLLECTONS
+
+a) Données de compte (si vous créez un compte)
+   - nom d'utilisateur, adresse e-mail, prénom et nom ;
+   - mot de passe : il n'est jamais stocké en clair, seule une empreinte
+     chiffrée (hachage) est conservée sur nos serveurs.
+
+b) Contenus que vous créez
+   - vos sites favoris ;
+   - vos voyages (itinéraires) : titre, description, étapes, dates ;
+   - vos avis sur les sites : note, commentaire, date de visite éventuelle ;
+   - les sites touristiques que vous proposez : nom, description, position GPS
+     du site, informations pratiques et photos.
+
+c) Localisation
+   - Si vous l'autorisez, l'application utilise la position de votre appareil
+     pour afficher les sites « près de moi », les distances et votre position
+     sur la carte, et pour calculer un itinéraire vers un site.
+   - Votre position est traitée sur votre appareil. Elle n'est pas enregistrée
+     dans votre compte ni conservée sur nos serveurs.
+   - Pour calculer un itinéraire, votre point de départ et la destination sont
+     envoyés au service de calcul d'itinéraire OSRM (voir section 5).
+   - Vous pouvez refuser ou retirer cette autorisation à tout moment dans les
+     réglages Android ; l'application reste utilisable sans localisation.
+
+d) Photos et appareil photo
+   - L'accès aux photos et à l'appareil photo sert uniquement à joindre des
+     images lorsque vous proposez un site.
+   - Les photos sont redimensionnées sur votre appareil avant l'envoi ; ce
+     traitement supprime les métadonnées qu'elles contiennent (dont la position
+     GPS de la prise de vue).
+   - Nous n'accédons à aucune autre photo de votre appareil.
+
+e) Données techniques
+   - Comme tout service en ligne, nos serveurs reçoivent votre adresse IP et
+     des informations techniques de connexion (date, heure, page demandée),
+     utilisées pour faire fonctionner et sécuriser le service.
+   - Sur votre appareil, l'application conserve vos jetons de connexion, votre
+     langue et votre thème (clair/sombre) afin de vous garder connecté et de
+     mémoriser vos préférences.
+
+Nous n'utilisons AUCUN outil de publicité, de suivi publicitaire ou d'analyse
+d'audience, et nous ne vendons jamais vos données.
+
+3. POURQUOI NOUS UTILISONS VOS DONNÉES
+
+   - créer et gérer votre compte, vous authentifier ;
+   - enregistrer vos favoris, vos voyages et vos avis ;
+   - afficher les sites et établissements proches de vous et vous guider ;
+   - examiner les sites proposés avant leur publication (modération) ;
+   - assurer la sécurité du service (prévention des abus, limitation des
+     tentatives de connexion) ;
+   - répondre à vos demandes lorsque vous nous contactez.
+
+Bases légales : l'exécution du service que vous demandez, votre consentement
+(localisation, photos) et notre intérêt légitime à sécuriser l'application.
+
+4. CE QUI EST VISIBLE PAR LES AUTRES UTILISATEURS
+
+   - Vos avis sont publics : ils apparaissent avec votre nom d'utilisateur, votre
+     note, votre commentaire et leur date.
+   - Un site que vous proposez peut, après validation par notre équipe, être
+     publié dans l'application avec ses photos et descriptions.
+   - Si vous rendez un voyage « public », il peut être visible avec votre nom
+     d'utilisateur. Par défaut, vos voyages sont privés.
+   - Votre adresse e-mail et votre nom complet ne sont jamais affichés aux autres
+     utilisateurs.
+
+5. SERVICES TIERS
+
+Pour afficher les cartes et calculer les itinéraires, l'application contacte
+directement les services suivants depuis votre appareil. Ils reçoivent votre
+adresse IP et les zones de carte consultées (et, pour OSRM, les points de départ
+et d'arrivée). Ils appliquent leurs propres politiques de confidentialité :
+
+   - OpenStreetMap (fonds de carte) — https://osmfoundation.org/wiki/Privacy_Policy
+   - Esri / ArcGIS Online (fonds de carte et imagerie satellite) —
+     https://www.esri.com/en-us/privacy/overview
+   - OpenTopoMap (carte topographique) — https://opentopomap.org
+   - Projet OSRM (calcul d'itinéraire) — https://project-osrm.org
+   - Unsplash (images d'illustration) — https://unsplash.com/privacy
+   - Google Maps : uniquement si vous choisissez d'ouvrir un itinéraire dans
+     Google Maps ; l'application Google Maps s'ouvre alors et la politique de
+     Google s'applique — https://policies.google.com/privacy
+
+Les données des établissements (hôtels, bars, restaurants) proviennent en partie
+d'OpenStreetMap, © les contributeurs d'OpenStreetMap, sous licence ODbL.
+
+Nous ne partageons vos données personnelles avec aucun autre tiers, sauf
+obligation légale (réquisition d'une autorité compétente) ou pour protéger nos
+droits et la sécurité des utilisateurs. Nos serveurs sont exploités par un
+hébergeur qui agit pour notre compte et n'utilise pas vos données à ses propres
+fins.
+
+6. DURÉE DE CONSERVATION
+
+   - Données de compte, favoris, voyages et avis : tant que votre compte existe.
+     Ils sont supprimés lorsque vous supprimez votre compte.
+   - Sites proposés et publiés : ils peuvent rester dans l'application en tant
+     que contenu touristique, sans lien avec votre compte après sa suppression.
+   - Journaux techniques du serveur : durée limitée, nécessaire à la sécurité.
+   - Données stockées sur votre appareil : les jetons de connexion sont
+     supprimés à la déconnexion ; tout est supprimé à la désinstallation.
+
+7. SÉCURITÉ
+
+Les échanges entre l'application et nos serveurs sont chiffrés (HTTPS). Les mots
+de passe sont hachés, l'accès aux données personnelles est limité et protégé par
+authentification, et les tentatives de connexion répétées sont limitées. Aucun
+système n'étant infaillible, nous vous recommandons d'utiliser un mot de passe
+unique.
+
+8. VOS DROITS ET LA SUPPRESSION DE VOTRE COMPTE
+
+Vous pouvez à tout moment :
+   - consulter et modifier les informations de votre profil dans l'application ;
+   - retirer vos favoris ou supprimer vos voyages dans l'application, et nous
+     demander la suppression d'un avis que vous avez publié ;
+   - retirer l'autorisation de localisation ou d'accès aux photos (réglages
+     Android) ;
+   - demander l'accès à vos données, leur rectification, leur suppression ou
+     leur export, ou vous opposer à un traitement.
+
+Pour supprimer votre compte et les données associées, écrivez à
+hello@ksquad.dev depuis l'adresse e-mail de votre compte, avec l'objet
+« Suppression de compte » et votre nom d'utilisateur. Nous traitons la demande
+dans un délai de 30 jours et vous confirmons la suppression.
+
+9. ENFANTS
+
+L'application est destinée à un public général et ne s'adresse pas
+spécifiquement aux enfants de moins de 13 ans. Nous ne collectons pas
+sciemment de données personnelles d'enfants de moins de 13 ans. Si vous pensez
+qu'un enfant nous a transmis des données, contactez-nous pour que nous les
+supprimions.
+
+10. MODIFICATIONS
+
+Nous pouvons mettre à jour cette politique, par exemple lors de l'ajout de
+nouvelles fonctions. La date de mise à jour figure en haut de ce document ; en
+cas de changement important, nous vous en informerons dans l'application.
+
+11. CONTACT
+
+K SQUAD — https://ksquad.dev
+E-mail : hello@ksquad.dev
+Téléphone : +257 68 46 18 41
+
+
+================================================================================
+ENGLISH VERSION
+================================================================================
+
+1. INTRODUCTION
+
+Akiwacu Explore is an app for discovering tourist sites in Burundi and the
+hotels, bars and restaurants near them. It is published by K SQUAD ("we", "us").
+This policy explains what data we collect, why, who it is shared with, and your
+rights.
+
+You can use the app without an account to browse sites, the map and places. An
+account is only needed for personal features (favorites, trips, reviews,
+suggesting new sites).
+
+2. DATA WE COLLECT
+
+a) Account data (if you create an account)
+   - username, email address, first and last name;
+   - password: never stored in plain text; only a hashed version is kept on
+     our servers.
+
+b) Content you create
+   - your favorite sites;
+   - your trips (itineraries): title, description, stops, dates;
+   - your reviews of sites: rating, comment, optional visit date;
+   - tourist sites you suggest: name, description, GPS position of the site,
+     practical information and photos.
+
+c) Location
+   - If you allow it, the app uses your device's location to show sites "near
+     me", distances and your position on the map, and to calculate directions
+     to a site.
+   - Your location is processed on your device. It is not saved to your
+     account and not stored on our servers.
+   - To calculate directions, your starting point and the destination are sent
+     to the OSRM routing service (see section 5).
+   - You can deny or revoke this permission at any time in Android settings;
+     the app remains usable without location.
+
+d) Photos and camera
+   - Access to photos and the camera is used only to attach images when you
+     suggest a site.
+   - Photos are resized on your device before upload; this removes their
+     embedded metadata (including the GPS position where they were taken).
+   - We do not access any other photo on your device.
+
+e) Technical data
+   - Like any online service, our servers receive your IP address and
+     technical connection information (date, time, requested page), used to
+     run and secure the service.
+   - On your device, the app stores your sign-in tokens, language and theme
+     (light/dark) to keep you signed in and remember your preferences.
+
+We use NO advertising, ad tracking or audience analytics tools, and we never
+sell your data.
+
+3. WHY WE USE YOUR DATA
+
+   - to create and manage your account and sign you in;
+   - to save your favorites, trips and reviews;
+   - to show sites and places near you and guide you there;
+   - to review suggested sites before they are published (moderation);
+   - to keep the service secure (abuse prevention, limiting sign-in attempts);
+   - to answer your requests when you contact us.
+
+Legal bases: providing the service you request, your consent (location,
+photos) and our legitimate interest in keeping the app secure.
+
+4. WHAT OTHER USERS CAN SEE
+
+   - Your reviews are public: they show your username, rating, comment and
+     date.
+   - A site you suggest may, once approved by our team, be published in the
+     app with its photos and descriptions.
+   - If you make a trip "public", it may be visible with your username. Trips
+     are private by default.
+   - Your email address and full name are never shown to other users.
+
+5. THIRD-PARTY SERVICES
+
+To display maps and calculate directions, the app contacts the following
+services directly from your device. They receive your IP address and the map
+areas you view (and, for OSRM, the start and end points). Their own privacy
+policies apply:
+
+   - OpenStreetMap (map tiles) — https://osmfoundation.org/wiki/Privacy_Policy
+   - Esri / ArcGIS Online (map tiles and satellite imagery) —
+     https://www.esri.com/en-us/privacy/overview
+   - OpenTopoMap (topographic map) — https://opentopomap.org
+   - OSRM project (route calculation) — https://project-osrm.org
+   - Unsplash (illustration images) — https://unsplash.com/privacy
+   - Google Maps: only if you choose to open directions in Google Maps; the
+     Google Maps app then opens and Google's policy applies —
+     https://policies.google.com/privacy
+
+Place data (hotels, bars, restaurants) partly comes from OpenStreetMap,
+© OpenStreetMap contributors, licensed under the ODbL.
+
+We do not share your personal data with any other third party, except where
+required by law (a request from a competent authority) or to protect our
+rights and the safety of users. Our servers are run by a hosting provider
+acting on our behalf, which does not use your data for its own purposes.
+
+6. DATA RETENTION
+
+   - Account data, favorites, trips and reviews: for as long as your account
+     exists. They are deleted when you delete your account.
+   - Suggested sites that were published: they may remain in the app as
+     tourist content, no longer linked to your account after deletion.
+   - Server technical logs: kept for a limited period, as needed for security.
+   - Data stored on your device: sign-in tokens are removed when you sign
+     out; everything is removed when you uninstall the app.
+
+7. SECURITY
+
+Communication between the app and our servers is encrypted (HTTPS). Passwords
+are hashed, access to personal data is restricted and requires
+authentication, and repeated sign-in attempts are limited. No system is
+perfectly secure, so we recommend using a unique password.
+
+8. YOUR RIGHTS AND ACCOUNT DELETION
+
+At any time you can:
+   - view and edit your profile information in the app;
+   - remove favorites or delete trips in the app, and ask us to delete a
+     review you posted;
+   - revoke location or photo access (Android settings);
+   - request access to, correction, deletion or export of your data, or
+     object to its processing.
+
+To delete your account and its data, email hello@ksquad.dev from your
+account's email address with the subject "Account deletion" and your username.
+We process the request within 30 days and confirm the deletion.
+
+9. CHILDREN
+
+The app is intended for a general audience and is not specifically directed
+at children under 13. We do not knowingly collect personal data from children
+under 13. If you believe a child has provided us with personal data, contact
+us and we will delete it.
+
+10. CHANGES
+
+We may update this policy, for example when new features are added. The date
+of the latest update is shown at the top of this document; for significant
+changes, we will let you know in the app.
+
+11. CONTACT
+
+K SQUAD — https://ksquad.dev
+Email: hello@ksquad.dev
+Phone: +257 68 46 18 41

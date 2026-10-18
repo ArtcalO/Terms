@@ -1,0 +1,26 @@
+Politique de confidentialité — 7 minutes dans la Parole
+
+Dernière mise à jour : 18 octobre 2026
+
+L’application mobile « 7 minutes dans la Parole » permet d’écouter gratuitement les enseignements audio publiés par l’église. Cette page explique quelles informations l’application utilise.
+
+Aucun compte, aucune donnée personnelle
+L’écoute ne demande ni inscription ni connexion. L’application ne collecte pas votre nom, votre adresse e-mail, votre numéro de téléphone, votre position, vos contacts, vos photos ni aucun identifiant publicitaire.
+
+Données gardées sur votre téléphone
+Vos favoris, votre historique d’écoute, vos « j’aime », l’épisode en cours, sa position de lecture et vos préférences (thème, langue) sont enregistrés uniquement dans la mémoire de l’application, sur votre appareil. Ils ne sont pas envoyés à nos serveurs. Ils sont supprimés si vous effacez les données de l’application ou la désinstallez.
+
+Communication avec notre serveur
+L’application télécharge la liste des émissions et les fichiers audio depuis notre serveur (api.acc.bi), par une connexion chiffrée (HTTPS). Quand un épisode commence, l’application signale une écoute pour incrémenter un compteur anonyme : aucune information sur vous n’y est associée. Comme tout serveur web, notre hébergement peut enregistrer temporairement des journaux techniques (adresse IP, date, page demandée) pour la sécurité et la limitation des abus ; ils ne servent à rien d’autre et ne sont ni vendus ni partagés.
+
+Partage, publicité, enfants
+Nous ne vendons ni ne partageons aucune donnée avec des tiers. L’application ne contient aucune publicité et aucun outil de suivi ou de mesure d’audience tiers. Elle ne s’adresse pas spécifiquement aux enfants de moins de 13 ans.
+
+Permissions
+La seule permission utilisée est l’accès à Internet, nécessaire pour écouter les épisodes.
+
+Contact
+
+K SQUAD — https://ksquad.dev
+Email: info@ksquad.dev
+Phone: +257 68 46 18 41
